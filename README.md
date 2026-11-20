@@ -44,4 +44,4 @@ This project uses Machine Learning to predict house prices using the California 
    `jupyter notebook Predicting_House_Prices.ipynb
 
 ## Author
-Your Name
+Muqeem Uddin
